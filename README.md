@@ -35,139 +35,29 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THE BLOODY BROTHER. A Tragedy.By B. I. F.LONDON, Printed by R. Bishop, for Thomas Allott, and Iohn C
+
 #####Body#####
 The drinking Song, to the second Act.Drink to day and drowne all sorrow,You shall perhaps not doe it
     _ The drinking Song, to the second Act.
-
-      * THE BLOODY BROTHER.
-
-      * Act II. Scene I.
-
-      * Act II. Scene II.
-
-      * Act II. Scene III.
-
-      * Act. 3. Scaene. I.
-
-      * Act III. Scene II.
-
-      * Act IV. Scene I.
-
-      * ACT. IV. SCAE. II.
-
-      * ACT. IIII. SCAE. III.
-
-      * ACT. V. SCAE. I.
-
-      * ACT. V. SCAE. II.
 THE BLOODY BROTHER.Act I. Scene I.Enter Gisbert and Baldwin.THe brothers then are mett?Gis.They are,
       * THE BLOODY BROTHER.
-
-      * Act II. Scene I.
-
-      * Act II. Scene II.
-
-      * Act II. Scene III.
-
-      * Act. 3. Scaene. I.
-
-      * Act III. Scene II.
-
-      * Act IV. Scene I.
-
-      * ACT. IV. SCAE. II.
-
-      * ACT. IIII. SCAE. III.
-
-      * ACT. V. SCAE. I.
-
-      * ACT. V. SCAE. II.
 Act II. Scene I.Enter La•orch and Rollo.VVHy should this trouble you?Rol.It does, and must doe till 
-      * THE BLOODY BROTHER.
-
       * Act II. Scene I.
 
       * Act II. Scene II.
 
       * Act II. Scene III.
-
-      * Act. 3. Scaene. I.
-
-      * Act III. Scene II.
-
-      * Act IV. Scene I.
-
-      * ACT. IV. SCAE. II.
-
-      * ACT. IIII. SCAE. III.
-
-      * ACT. V. SCAE. I.
-
-      * ACT. V. SCAE. II.
 Act. 3. Scaene. I.Enter Sophia, Otto, Matillda, Edith.Ot.You wonder Madam, that for all the shewesMy
-      * THE BLOODY BROTHER.
-
-      * Act II. Scene I.
-
-      * Act II. Scene II.
-
-      * Act II. Scene III.
-
       * Act. 3. Scaene. I.
 
       * Act III. Scene II.
-
-      * Act IV. Scene I.
-
-      * ACT. IV. SCAE. II.
-
-      * ACT. IIII. SCAE. III.
-
-      * ACT. V. SCAE. I.
-
-      * ACT. V. SCAE. II.
 Act IV. Scene I.Enter Aubrey and Latorch.LAtorch, I have wayted here to speak with you,And you must 
-      * THE BLOODY BROTHER.
-
-      * Act II. Scene I.
-
-      * Act II. Scene II.
-
-      * Act II. Scene III.
-
-      * Act. 3. Scaene. I.
-
-      * Act III. Scene II.
-
       * Act IV. Scene I.
 
       * ACT. IV. SCAE. II.
 
       * ACT. IIII. SCAE. III.
-
-      * ACT. V. SCAE. I.
-
-      * ACT. V. SCAE. II.
 ACT. V. SCAE. I.Enter Rollo with a glasse, Aubrey, and servants.Rol.I never studied my glasse till n
-      * THE BLOODY BROTHER.
-
-      * Act II. Scene I.
-
-      * Act II. Scene II.
-
-      * Act II. Scene III.
-
-      * Act. 3. Scaene. I.
-
-      * Act III. Scene II.
-
-      * Act IV. Scene I.
-
-      * ACT. IV. SCAE. II.
-
-      * ACT. IIII. SCAE. III.
-
       * ACT. V. SCAE. I.
 
       * ACT. V. SCAE. II.
@@ -207,49 +97,43 @@ There are 221 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__label__|5||
-|14.|__langUsage__|1||
-|15.|__language__|1| @__ident__ (1) : eng (1)|
-|16.|__listPrefixDef__|1||
-|17.|__note__|8||
-|18.|__notesStmt__|2||
-|19.|__p__|11||
-|20.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|21.|__profileDesc__|1||
-|22.|__projectDesc__|1||
-|23.|__pubPlace__|2||
-|24.|__publicationStmt__|2||
-|25.|__publisher__|2||
-|26.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|27.|__revisionDesc__|1||
-|28.|__seriesStmt__|1||
-|29.|__sourceDesc__|1||
-|30.|__title__|3||
-|31.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__label__|5||
+|12.|__langUsage__|1||
+|13.|__language__|1| @__ident__ (1) : eng (1)|
+|14.|__listPrefixDef__|1||
+|15.|__note__|8||
+|16.|__notesStmt__|2||
+|17.|__p__|11||
+|18.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|19.|__projectDesc__|1||
+|20.|__pubPlace__|2||
+|21.|__publicationStmt__|2||
+|22.|__publisher__|2||
+|23.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|24.|__seriesStmt__|1||
+|25.|__sourceDesc__|1||
+|26.|__title__|3||
+|27.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|221||
-|3.|__div__|19| @__type__ (19) : title_page (1), text (1), song (1), act (5), scene (11)|
-|4.|__front__|1||
-|5.|__g__|14| @__ref__ (14) : char:EOLhyphen (11), char:cmbAbbrStroke (3)|
-|6.|__gap__|221| @__reason__ (221) : illegible (221)  •  @__resp__ (221) : #PDCC (221)  •  @__extent__ (221) : 1 letter (188), 2 letters (17), 3 letters (6), 1 word (6), 4 letters (1), 1 span (3)|
-|7.|__head__|18||
-|8.|__hi__|208||
-|9.|__l__|2525||
-|10.|__lg__|9||
-|11.|__note__|1| @__place__ (1) : margin (1)|
-|12.|__p__|10||
-|13.|__pb__|76| @__facs__ (76) : tcp:2470:1 (2), tcp:2470:2 (2), tcp:2470:3 (2), tcp:2470:4 (2), tcp:2470:5 (2), tcp:2470:6 (2), tcp:2470:7 (2), tcp:2470:8 (2), tcp:2470:9 (2), tcp:2470:10 (2), tcp:2470:11 (2), tcp:2470:12 (2), tcp:2470:13 (2), tcp:2470:14 (2), tcp:2470:15 (2), tcp:2470:16 (2), tcp:2470:17 (2), tcp:2470:18 (2), tcp:2470:19 (2), tcp:2470:20 (2), tcp:2470:21 (2), tcp:2470:22 (2), tcp:2470:23 (2), tcp:2470:24 (2), tcp:2470:25 (2), tcp:2470:26 (2), tcp:2470:27 (2), tcp:2470:28 (2), tcp:2470:29 (2), tcp:2470:30 (2), tcp:2470:31 (2), tcp:2470:32 (2), tcp:2470:33 (2), tcp:2470:34 (2), tcp:2470:35 (2), tcp:2470:36 (2), tcp:2470:37 (2), tcp:2470:38 (2)  •  @__rendition__ (9) : simple:additions (9)|
-|14.|__sp__|791||
-|15.|__speaker__|791||
-|16.|__stage__|79||
-|17.|__trailer__|2||
+|1.|__desc__|221||
+|2.|__div__|19| @__type__ (19) : title_page (1), text (1), song (1), act (5), scene (11)|
+|3.|__g__|14| @__ref__ (14) : char:EOLhyphen (11), char:cmbAbbrStroke (3)|
+|4.|__gap__|221| @__reason__ (221) : illegible (221)  •  @__resp__ (221) : #PDCC (221)  •  @__extent__ (221) : 1 letter (188), 2 letters (17), 3 letters (6), 1 word (6), 4 letters (1), 1 span (3)|
+|5.|__head__|18||
+|6.|__hi__|208||
+|7.|__l__|2525||
+|8.|__lg__|9||
+|9.|__note__|1| @__place__ (1) : margin (1)|
+|10.|__p__|10||
+|11.|__pb__|76| @__facs__ (76) : tcp:2470:1 (2), tcp:2470:2 (2), tcp:2470:3 (2), tcp:2470:4 (2), tcp:2470:5 (2), tcp:2470:6 (2), tcp:2470:7 (2), tcp:2470:8 (2), tcp:2470:9 (2), tcp:2470:10 (2), tcp:2470:11 (2), tcp:2470:12 (2), tcp:2470:13 (2), tcp:2470:14 (2), tcp:2470:15 (2), tcp:2470:16 (2), tcp:2470:17 (2), tcp:2470:18 (2), tcp:2470:19 (2), tcp:2470:20 (2), tcp:2470:21 (2), tcp:2470:22 (2), tcp:2470:23 (2), tcp:2470:24 (2), tcp:2470:25 (2), tcp:2470:26 (2), tcp:2470:27 (2), tcp:2470:28 (2), tcp:2470:29 (2), tcp:2470:30 (2), tcp:2470:31 (2), tcp:2470:32 (2), tcp:2470:33 (2), tcp:2470:34 (2), tcp:2470:35 (2), tcp:2470:36 (2), tcp:2470:37 (2), tcp:2470:38 (2)  •  @__rendition__ (9) : simple:additions (9)|
+|12.|__sp__|791||
+|13.|__speaker__|791||
+|14.|__stage__|79||
+|15.|__trailer__|2||
